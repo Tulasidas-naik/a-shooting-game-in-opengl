@@ -1,0 +1,13 @@
+This game  is something like angry birds.
+In this game i have cannon which fires ball and there is rotator which indicate the angle of projection and there are many targets hitting them you get score and there are obstacles in between and also supporters in between, obstacles make the game difficult and supporters help to get to the target easily.
+In the right top corner of the game i have displayed the score.
+In the left top corner i have some balls indicating number of chances left.
+There are some limited chances to hit the all the targets and depending on which chance you hit the ball you get different score per target which is as below ->
+    In the first chance if you hit the target you get 7 for each target hit, in the next chance you get 6 for each hit and so on, the score you get per hit decreses with chance.
+Controls for playing the game are as below ->
+  1.On Pressing space,ball is fired, depending on how long you press space you get more speed of firing.
+  2.for the angle of projection you put mouse in the direction you want to fire the ball.
+  3.key up zooms in the game.
+  4.key down zooms out of the game.
+
+
